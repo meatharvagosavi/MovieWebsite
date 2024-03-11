@@ -1,6 +1,6 @@
 How to Get Started:
 
-Create an Account: Sign up for a free account to unlock all of MovieMania's features, including personalized recommendations and the watchlist feature.
+Create an Account: Sign up for a free account to unlock all of flakes's features, including personalized recommendations and the watchlist feature.
 
 Browse and Explore: Dive into our vast movie database and start exploring. Use the search functionality to find specific movies or browse by genre, director, actor, and more.
 
